@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9264fb-f762-4efb-9f92-49d222782a43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFvKiP3fy4nY3Ah32XnjaBhBke" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppBank" />
+      <module name="AppBank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppBank" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9264fb-f762-4efb-9f92-49d222782a43" name="Default Changelist" comment="" />
+      <created>1586344093267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586344093267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1780" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1586344260747">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1780" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040/294.1080.1920.1040@0.0.2560.1040" timestamp="1586344260747" />
+    <state x="1722" y="265" key="FileChooserDialogImpl" timestamp="1586347050007">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1722" y="265" key="FileChooserDialogImpl/0.0.2560.1040/294.1080.1920.1040@0.0.2560.1040" timestamp="1586347050007" />
+    <state width="1234" height="281" key="GridCell.Tab.0.bottom" timestamp="1586348833848">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.bottom/0.0.2560.1040/294.1080.1920.1040@0.0.2560.1040" timestamp="1586348833848" />
+    <state width="1234" height="281" key="GridCell.Tab.0.center" timestamp="1586348833848">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.center/0.0.2560.1040/294.1080.1920.1040@0.0.2560.1040" timestamp="1586348833848" />
+    <state width="1234" height="281" key="GridCell.Tab.0.left" timestamp="1586348833848">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.left/0.0.2560.1040/294.1080.1920.1040@0.0.2560.1040" timestamp="1586348833848" />
+    <state width="1234" height="281" key="GridCell.Tab.0.right" timestamp="1586348833848">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1234" height="281" key="GridCell.Tab.0.right/0.0.2560.1040/294.1080.1920.1040@0.0.2560.1040" timestamp="1586348833848" />
+    <state x="1325" y="144" key="new project wizard" timestamp="1586347051048">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1325" y="144" key="new project wizard/0.0.2560.1040/294.1080.1920.1040@0.0.2560.1040" timestamp="1586347051048" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AppBank.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
