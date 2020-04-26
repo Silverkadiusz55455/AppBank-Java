@@ -1,12 +1,16 @@
+package Bank.model.addAccount;
+
+import Bank.model.Data.BankCustomer;
+
 public class AddAcountFirst {
-private final int maxCustomerNumber =5;
-private BankCustomer [] customers = new BankCustomer[maxCustomerNumber];
+private static final int MAX_CUSTOMER_NUMBER =5;
+private BankCustomer[] customers = new BankCustomer[MAX_CUSTOMER_NUMBER];
 private int registerCustomer = 0;
 
 
 public void addAccount(BankCustomer customer){
 
-    if(registerCustomer < maxCustomerNumber){
+    if(registerCustomer < MAX_CUSTOMER_NUMBER){
         customers[registerCustomer] = customer;
         registerCustomer ++;
     }else{
@@ -14,7 +18,7 @@ public void addAccount(BankCustomer customer){
     }
 }
 
-    public void printCustomer(String s){
+    public void printCustomer(){
     for(int i = 0; i < registerCustomer; i++){
         System.out.println("The account was created correctly"+customers[i].getFirstName()+ " "+
                 customers[i].getLastName()+" " +customers[i].getcode()

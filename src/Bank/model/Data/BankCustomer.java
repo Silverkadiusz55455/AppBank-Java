@@ -1,4 +1,6 @@
-    class BankCustomer {
+package Bank.model.Data;
+
+public class BankCustomer {
     private String firstName;
     private String lastName;
     private String code;
@@ -15,7 +17,10 @@
 
         }
 
-        public String getFirstName() {
+    public static void printCustomer() {
+    }
+
+    public String getFirstName() {
         return firstName;
     }
 
@@ -46,4 +51,13 @@
     public void setCash(double cash) {
         this.cash = cash;
     }
-}
+
+
+    public void printInfo() {
+        System.out.println("Name: "+ firstName);
+        System.out.println("Surname: " + lastName);
+        System.out.println("Code: " + code);
+        System.out.println("Cash: " + cash);
+
+        }
+    }
